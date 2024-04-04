@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Jack-bedford/Assignment_1.6210.git/static/css/main.51e860c9.css",
-    "main.js": "/Jack-bedford/Assignment_1.6210.git/static/js/main.4be00032.js",
-    "index.html": "/Jack-bedford/Assignment_1.6210.git/index.html",
-    "main.51e860c9.css.map": "/Jack-bedford/Assignment_1.6210.git/static/css/main.51e860c9.css.map",
-    "main.4be00032.js.map": "/Jack-bedford/Assignment_1.6210.git/static/js/main.4be00032.js.map"
+    "main.css": "/Assignment_1.6210/static/css/main.51e860c9.css",
+    "main.js": "/Assignment_1.6210/static/js/main.4be00032.js",
+    "index.html": "/Assignment_1.6210/index.html",
+    "main.51e860c9.css.map": "/Assignment_1.6210/static/css/main.51e860c9.css.map",
+    "main.4be00032.js.map": "/Assignment_1.6210/static/js/main.4be00032.js.map"
   },
   "entrypoints": [
     "static/css/main.51e860c9.css",
