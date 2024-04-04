@@ -1,6 +1,7 @@
 {
   "name": "week3p2",
   "version": "0.1.0",
+  "homepage": "https://github.com/Jack-bedford/Assignment_1.6210.git",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -10,6 +11,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
