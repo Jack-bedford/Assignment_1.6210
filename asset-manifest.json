@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jack-bedford/Assignment_1.6210.git/static/css/main.51e860c9.css",
+    "main.js": "/Jack-bedford/Assignment_1.6210.git/static/js/main.4be00032.js",
+    "index.html": "/Jack-bedford/Assignment_1.6210.git/index.html",
+    "main.51e860c9.css.map": "/Jack-bedford/Assignment_1.6210.git/static/css/main.51e860c9.css.map",
+    "main.4be00032.js.map": "/Jack-bedford/Assignment_1.6210.git/static/js/main.4be00032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e860c9.css",
+    "static/js/main.4be00032.js"
+  ]
+}
