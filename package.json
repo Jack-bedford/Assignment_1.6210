@@ -2,7 +2,7 @@
   "name": "week3p2",
   "version": "0.1.0",
   "homepage": "https://Jack-bedford.github.io/Assignment_1.6210",
-  "private": true,
+  "private": false,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
